@@ -1,0 +1,65 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/dist/config/index.js" />
+        <item url="file://$PROJECT_DIR$/dist/controllers/auth.js" />
+        <item url="file://$PROJECT_DIR$/dist/controllers/dialogs.js" />
+        <item url="file://$PROJECT_DIR$/dist/controllers/page.js" />
+        <item url="file://$PROJECT_DIR$/dist/controllers/settings.js" />
+        <item url="file://$PROJECT_DIR$/dist/controllers/socialwebs.js" />
+        <item url="file://$PROJECT_DIR$/dist/controllers/user.js" />
+        <item url="file://$PROJECT_DIR$/dist/controllers/vkapi.js" />
+        <item url="file://$PROJECT_DIR$/dist/middlewares/checkToken.js" />
+        <item url="file://$PROJECT_DIR$/dist/middlewares/errorHandler.js" />
+        <item url="file://$PROJECT_DIR$/dist/middlewares/getUser.js" />
+        <item url="file://$PROJECT_DIR$/dist/models/Comments.js" />
+        <item url="file://$PROJECT_DIR$/dist/models/Dialogs.js" />
+        <item url="file://$PROJECT_DIR$/dist/models/Messages.js" />
+        <item url="file://$PROJECT_DIR$/dist/models/page.js" />
+        <item url="file://$PROJECT_DIR$/dist/models/user.js" />
+        <item url="file://$PROJECT_DIR$/dist/page.js" />
+        <item url="file://$PROJECT_DIR$/dist/routes/AddSocialWebs.js" />
+        <item url="file://$PROJECT_DIR$/dist/routes/auth.js" />
+        <item url="file://$PROJECT_DIR$/dist/routes/dialogs.js" />
+        <item url="file://$PROJECT_DIR$/dist/routes/page.js" />
+        <item url="file://$PROJECT_DIR$/dist/routes/settings.js" />
+        <item url="file://$PROJECT_DIR$/dist/routes/smsru.js" />
+        <item url="file://$PROJECT_DIR$/dist/routes/user.js" />
+        <item url="file://$PROJECT_DIR$/dist/routes/vkapi.js" />
+        <item url="file://$PROJECT_DIR$/dist/server.js" />
+        <item url="file://$PROJECT_DIR$/dist/services/UserService.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/dist/controllers/page.js" />
+      <root url="file://$PROJECT_DIR$/dist/routes/page.js" />
+      <root url="file://$PROJECT_DIR$/dist/middlewares/checkToken.js" />
+      <root url="file://$PROJECT_DIR$/dist/models/Comments.js" />
+      <root url="file://$PROJECT_DIR$/dist/routes/user.js" />
+      <root url="file://$PROJECT_DIR$/dist/page.js" />
+      <root url="file://$PROJECT_DIR$/dist/controllers/settings.js" />
+      <root url="file://$PROJECT_DIR$/dist/routes/settings.js" />
+      <root url="file://$PROJECT_DIR$/dist/routes/dialogs.js" />
+      <root url="file://$PROJECT_DIR$/dist/controllers/auth.js" />
+      <root url="file://$PROJECT_DIR$/dist/server.js" />
+      <root url="file://$PROJECT_DIR$/dist/routes/auth.js" />
+      <root url="file://$PROJECT_DIR$/dist/models/Dialogs.js" />
+      <root url="file://$PROJECT_DIR$/dist/controllers/dialogs.js" />
+      <root url="file://$PROJECT_DIR$/dist/models/Messages.js" />
+      <root url="file://$PROJECT_DIR$/dist/controllers/vkapi.js" />
+      <root url="file://$PROJECT_DIR$/dist/routes/vkapi.js" />
+      <root url="file://$PROJECT_DIR$/dist/services/UserService.js" />
+      <root url="file://$PROJECT_DIR$/dist/controllers/user.js" />
+      <root url="file://$PROJECT_DIR$/dist/models/user.js" />
+      <root url="file://$PROJECT_DIR$/dist/routes/AddSocialWebs.js" />
+      <root url="file://$PROJECT_DIR$/dist/config/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/middlewares/errorHandler.js" />
+      <root url="file://$PROJECT_DIR$/dist/controllers/socialwebs.js" />
+      <root url="file://$PROJECT_DIR$/dist/routes/smsru.js" />
+      <root url="file://$PROJECT_DIR$/dist/models/page.js" />
+      <root url="file://$PROJECT_DIR$/dist/middlewares/getUser.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
