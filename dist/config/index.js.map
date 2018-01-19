@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../config/index.js"],"names":["config","database","port","secret"],"mappings":";;;;;AAAA,IAAMA,SAAS;AACXC,cAAS,6BADE;AAEXC,UAAK,IAFM;AAGXC,YAAO;AAHI,CAAf;kBAKeH,M","file":"index.js","sourcesContent":["const config = {\r\n    database:'mongodb://localhost/nodedb9',\r\n    port:3780,\r\n    secret:'verysecretverykey'\r\n};\r\nexport default config;"]}

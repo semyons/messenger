@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../models/chat.js"],"names":["UserSchema"],"mappings":";;AAGA;;;;;;AACA,IAAMA,aAAa,qBAAW,EAAX,CAAnB,C,CAJA","file":"chat.js","sourcesContent":["/**\r\n * Created by Semyon on 22.07.2017.\r\n */\r\nimport mongoose, { Schema } from 'mongoose';\r\nconst UserSchema = new Schema({\r\n\r\n});"]}
